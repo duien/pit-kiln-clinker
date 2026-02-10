@@ -1,0 +1,11 @@
+{
+  "type": "content",
+  "modid": "pitkilnclinker",
+  "name": "Pit Kiln Clinker",
+  "description": "Firing blue clay bricks in a pit kiln makes clinker bricks",
+  "authors": ["duien"],
+  "version": "0.1.0",
+  "dependencies": {
+    "game": "1.21.6"
+  }
+}
